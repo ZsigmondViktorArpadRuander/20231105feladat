@@ -1,0 +1,5 @@
+- Keszits uj online repot Feladat1 neven
+- Az egyik projekted tartalmat toltsd fel git segitsegevel a Feladat1 repoba
+- Keszits uj LOKALIS repot, ahova toltsd le a Feladat1 online repo tartalmat
+- Az eredeti porjekten modosits, majd tolts fel a Feladat1 online repoba
+- A modositott, online meglevo tartalmat szinkronizald az uj, LOKALIS repodba
