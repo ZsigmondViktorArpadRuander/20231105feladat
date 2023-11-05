@@ -3,3 +3,5 @@
 - Keszits uj LOKALIS repot, ahova toltsd le a Feladat1 online repo tartalmat
 - Az eredeti porjekten modosits, majd tolts fel a Feladat1 online repoba
 - A modositott, online meglevo tartalmat szinkronizald az uj, LOKALIS repodba
+
+asd
